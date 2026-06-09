@@ -2,9 +2,9 @@
 
 This repository contains a YOLOv8-based image segmentation workflow for detecting crochet stitches. The main notebook demonstrates dataset download, model training, validation, and prediction using Ultralytics and Roboflow.
 
-![Crochet stitch patterns](README_images/crochet_stitches_1.png)
+![Crochet stitch patterns](readme_images/crochet_stitches_1.png)
 
-![Crochet square example](README_images/crochet_kwadrat.png)
+![Crochet square example](readme_images/crochet_kwadrat.png)
 
 ## Project Overview
 
